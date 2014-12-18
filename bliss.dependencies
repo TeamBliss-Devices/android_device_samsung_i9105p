@@ -7,7 +7,7 @@
     },
     {
         "remote": "TeamBliss-Devices",
-        "repository": "kernel_samsung_galaxys2plus-common",
+        "repository": "android_kernel_samsung_galaxys2plus-common",
         "target_path": "kernel/samsung/galaxys2plus-common",
         "revision": "lp5.0"
     }
