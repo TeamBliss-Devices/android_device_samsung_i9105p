@@ -1,0 +1,14 @@
+[
+    {
+        "remote": "TeamBliss-Devices",
+        "repository": "android_device_samsung_galaxys2plus-common",
+        "target_path": "device/samsung/galaxys2plus-common",
+        "revision": "lp5.0"
+    },
+    {
+        "remote": "TeamBliss-Devices",
+        "repository": "kernel_samsung_galaxys2plus-common",
+        "target_path": "kernel/samsung/galaxys2plus-common",
+        "revision": "lp5.0"
+    }
+]
